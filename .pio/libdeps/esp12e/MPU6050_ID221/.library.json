@@ -1,0 +1,53 @@
+{
+    "name": "MPU6050", 
+    "repository": {
+        "url": "https://os.mbed.com/users/garfieldsg/code/MPU6050/", 
+        "type": "hg"
+    }, 
+    "platforms": [
+        "atmelsam", 
+        "freescalekinetis", 
+        "maxim32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "nxplpc", 
+        "riscv_gap", 
+        "siliconlabsefm32", 
+        "ststm32", 
+        "teensy", 
+        "wiznet7500"
+    ], 
+    "frameworks": [
+        "mbed"
+    ], 
+    "version": "1e0baaf91e", 
+    "examples": [
+        "https://os.mbed.com/users/garfieldsg/code/mpu6050_test/", 
+        "https://os.mbed.com/users/pommzorz/code/testI2C/", 
+        "https://os.mbed.com/users/syundo0730/code/Hobby_Humanoid_controlor/", 
+        "https://os.mbed.com/users/kto1989/code/mpu6050_test/", 
+        "https://os.mbed.com/users/oakx/code/j_mpu6050/", 
+        "https://os.mbed.com/teams/Wallbot-BLE-Developer/code/mpu6050_test/", 
+        "https://os.mbed.com/users/shuhei2306/code/NeoPixels/", 
+        "https://os.mbed.com/users/godai0505/code/mpu6050/", 
+        "https://os.mbed.com/users/tichise/code/TI_MPU6050/", 
+        "https://os.mbed.com/teams/SARD/code/1114_mpu_sd_s/"
+    ], 
+    "authors": [
+        {
+            "url": "https://os.mbed.com/users/garfieldsg/", 
+            "maintainer": false, 
+            "email": null, 
+            "name": "Simon Garfieldsg"
+        }
+    ], 
+    "keywords": [
+        "i2c", 
+        "mpu-6050", 
+        "mpu6050", 
+        "gyroscope", 
+        "mpu60x0"
+    ], 
+    "id": 221, 
+    "description": "Ported from Arduino Library : https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050"
+}
